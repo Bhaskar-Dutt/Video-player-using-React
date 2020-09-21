@@ -1,3 +1,5 @@
+You have to install and create an app, using create-react-app, as some folders are not uploaded here, then after you can run this project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
